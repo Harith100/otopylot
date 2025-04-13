@@ -52,7 +52,7 @@ Otopylot is a Python-based assistant that leverages Groq's LLM capabilities to i
 
 Run the script:
 ```bash
-python otopylot.py
+python Directory_Operator.py
 ```
 
 Example interactions:
